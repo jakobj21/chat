@@ -1,0 +1,1 @@
+- [STM32 project setup](project_stm32.md) — Nucleo-F446RE + VS Code/ST extension toolchain at c:\Users\Junk\Desktop\STM32

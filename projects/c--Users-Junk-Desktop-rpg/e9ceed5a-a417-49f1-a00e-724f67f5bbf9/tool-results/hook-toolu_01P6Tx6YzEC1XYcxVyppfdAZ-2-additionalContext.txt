@@ -1,0 +1,354 @@
+<ide_diagnostics>[
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 26,
+    "column": 42,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 36,
+    "column": 14,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 36,
+    "column": 46,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 41,
+    "column": 32,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<GameItem>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 48,
+    "column": 18,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 60,
+    "column": 32,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<Engine.Models.ItemQuantity>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 65,
+    "column": 24,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 70,
+    "column": 33,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<Engine.Models.ItemQuantity>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 81,
+    "column": 9,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 82,
+    "column": 9,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 85,
+    "column": 41,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 85,
+    "column": 32,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<GameItem>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 98,
+    "column": 9,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 99,
+    "column": 9,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 100,
+    "column": 9,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 103,
+    "column": 41,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 103,
+    "column": 32,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<GameItem>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 106,
+    "column": 45,
+    "message": "The type or namespace name 'GameItem' could not be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 106,
+    "column": 36,
+    "message": "Argument 1: cannot convert from 'System.Collections.Generic.List<GameItem>' to 'System.Collections.Generic.IEnumerable<GameItem>'",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 121,
+    "column": 42,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 127,
+    "column": 43,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 133,
+    "column": 43,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 139,
+    "column": 43,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 156,
+    "column": 18,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 197,
+    "column": 18,
+    "message": "'Inventory' does not contain a definition for 'AddItemFromFactory' and no accessible extension method 'AddItemFromFactory' accepting a first argument of type 'Inventory' could be found (are you missing a using directive or an assembly reference?)",
+    "code": "[object Object]",
+    "severity": "Error"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 24,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 115,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 79,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 96,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 34,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 16,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 57,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 36,
+    "column": 37,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 60,
+    "column": 56,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 70,
+    "column": 57,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 149,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 190,
+    "column": 31,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 170,
+    "column": 54,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 213,
+    "column": 54,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 178,
+    "column": 54,
+    "message": "'new' expression can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 36,
+    "column": 37,
+    "message": "Collection initialization can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 170,
+    "column": 30,
+    "message": "Collection initialization can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 213,
+    "column": 30,
+    "message": "Collection initialization can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  },
+  {
+    "filePath": "/c:/Users/Junk/Desktop/rpg/Test/Models/TestInventory.cs",
+    "line": 178,
+    "column": 30,
+    "message": "Collection initialization can be simplified",
+    "code": "[object Object]",
+    "severity": "Information"
+  }
+]</ide_diagnostics>
